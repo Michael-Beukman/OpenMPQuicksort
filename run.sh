@@ -1,0 +1,1 @@
+make && ./bin/test_sorting

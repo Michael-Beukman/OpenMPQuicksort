@@ -1,0 +1,2 @@
+#define TASK_LIMIT 1000
+#define SECTION_LIMIT 5000
