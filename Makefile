@@ -1,4 +1,3 @@
-INC=src
 FLAGS=-I$(INC) -lm -O3
 OMPFLAG=-fopenmp
 CXX=g++
